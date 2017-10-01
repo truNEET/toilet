@@ -47,6 +47,7 @@ const lookup[] =
 {
     { "crop", filter_crop, "crop unused blanks" },
     { "rainbow", filter_rainbow, "add a rainbow colour effect" },
+    { "gay", filter_rainbow, "add a rainbow colour effect" },
     { "metal", filter_metal, "add a metallic colour effect" },
     { "flip", filter_flip, "flip horizontally" },
     { "flop", filter_flop, "flip vertically" },
